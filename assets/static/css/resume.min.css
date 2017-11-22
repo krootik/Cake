@@ -45,7 +45,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-    color: #e9609f
+    color: #8cc4b6
 }
 
 .list-social-icons a .fa-lg {
@@ -57,7 +57,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-    color: #e9609f
+    color: #f6bdba
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -81,7 +81,7 @@ h2 {
         margin: auto auto 0;
         padding: .5rem;
         position: relative;
-        height: 200px;
+        height: 250px;
         width: 150px;
     }
     #sideNav .navbar-brand .img-profile {
@@ -140,20 +140,19 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-    background-color: #E266B7!important
+    background-color: #f6bdba!important
 }
 
 .text-primary {
-    color: #E266B7!important
+    color: #f6bdba!important
 }
 
 a {
-    color: #E266B7
+    color: #8cc4b6
 }
 
-
 a:active, a:focus, a:hover {
-    color: #E266B7
+    color: #f6bdba
 }
 
 @-webkit-keyframes cf3FadeInOut {
@@ -178,7 +177,7 @@ a:active, a:focus, a:hover {
     45% {
         opacity: 1;
     }
-    55% {
+    F06C98 55% {
         opacity: 0;
     }
     100% {
@@ -238,18 +237,58 @@ a:active, a:focus, a:hover {
     animation-duration: 5s;
     animation-direction: alternate;
 }
+
 .thumb img {
-      filter: none; /* IE6-9 */
-      -webkit-filter: grayscale(0);
-      border-radius:5px;
-      background-color: #fff;
-      border: 1px solid #ddd;
-      padding:5px;
-    }
-    .thumb img:hover {
-      filter: #F0B8D5; /* IE6-9 */
-      -webkit-filter: grayscale(50%);
-    }
-    .thumb {
-      padding:5px;
-    }
+    filter: none;
+    /* IE6-9 */
+    -webkit-filter: grayscale(0);
+    border-radius: 5px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+
+.thumb img:hover {
+    filter: #FCC7D5;
+    /* IE6-9 */
+    -webkit-filter: grayscale(50%);
+}
+
+.thumb {
+    padding: 5px;
+}
+
+.caption2 p {
+    font-style: italic;
+    margin-bottom: 0;
+}
+
+.caption2 {
+    background: #f4f4f4;
+border-radius: 20px;
+padding: 25px 38px 29px 38px;
+position: relative;
+margin-top: 50px;
+}
+.caption2 em {
+    width: 37px;
+    height: 19px;
+    position: absolute;
+    top: -19px;
+    left: 60px;
+    text-align: center;
+    display: inline-block;
+    background: url(/static/images/triangle.png) no-repeat;
+}
+.review {
+    text-align: center;
+}
+.family h4{
+    font-family: 'Saira Extra Condensed', serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #343a40
+}
+.family {
+    padding-top: 40px;
+}

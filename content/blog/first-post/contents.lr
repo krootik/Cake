@@ -1,4 +1,4 @@
-title: Hello Website
+title: Начинки
 ---
 pub_date: 2017-11-17
 ---
@@ -6,4 +6,6 @@ author: Крутская Валентина
 ---
 body:
 
-This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)
+##This is an example blog post.
+[название ссылки](http://vk.com "опциональный тайтл ссылки") 
+Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)This is an example blog post.  Not much here but that's not the point :)
